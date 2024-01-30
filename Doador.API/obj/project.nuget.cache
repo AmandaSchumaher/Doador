@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2BH7+KavT8Xp79lB+v2ECssFFV9aUGtfOY/kSNGd4ZrWy1XZlHWHNvm6HX6H4Z0gZqh49VookQw7YgggIUPErg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amanda.ssilva150\\source\\repos\\Doador.API\\Doador.API\\Doador.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amanda.ssilva150\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\amanda.ssilva150\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\amanda.ssilva150\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\amanda.ssilva150\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\amanda.ssilva150\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\amanda.ssilva150\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
